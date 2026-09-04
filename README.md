@@ -55,7 +55,13 @@ The source files were supplied for university coursework. This repository does n
 
 High-deprivation areas in the 2006 data were concentrated in northern and northeastern parts of the North Island.
 
-[![Top deprivation areas in New Zealand](images/top_deprivation_areas_nz.png)](images/top_deprivation_areas_nz.png)
+<p align="center">
+  <a href="images/top_deprivation_areas_nz.png">
+    <img src="images/top_deprivation_areas_nz.png"
+         alt="Top deprivation areas in New Zealand"
+         width="650">
+  </a>
+</p>
 
 ### City-level comparison
 
