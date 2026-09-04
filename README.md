@@ -95,10 +95,6 @@ The analysis identified a positive association between area-level Māori populat
 - Area-based results should not be interpreted as characteristics of individual residents.
 - Findings were produced for coursework and should not be used as official policy advice.
 
-## Full Report
-
-The complete coursework report, including detailed processing steps and statistical outputs, is available in [`report/WenjuanWang_ESDA_of_Deprivation_in_New_Zealand.pdf`](report/WenjuanWang_ESDA_of_Deprivation_in_New_Zealand.pdf).
-
 ## Portfolio Note
 
 This is a university portfolio project developed for skills demonstration. It is not affiliated with or endorsed by Stats NZ or the publishers of the New Zealand Deprivation Index.
