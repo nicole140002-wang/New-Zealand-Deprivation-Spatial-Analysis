@@ -8,15 +8,12 @@ This university project examines how deprivation patterns vary across New Zealan
 
 ### Deprivation and Maori population
 
-The bivariate map compares deprivation with the proportion of Maori residents at Area Unit level. The analysis identified a positive association, but the result is descriptive and should not be interpreted as evidence of causation.
+The analysis shows that local deprivation clusters were most visible at
+Meshblock level, became more generalised at Area Unit level, and were largely
+obscured at Territorial Authority level.
 
-[View the analysis page](images/deprivation_and_maori_population.png)
+![Spatial autocorrelation across three geographic scales](images/spatial_autocorrelation_by_scale.png)
 
-### Spatial patterns at different geographic scales
-
-The comparison shows that local deprivation clusters are most visible at Meshblock level, become more generalised at Area Unit level and are largely obscured at Territorial Authority level.
-
-[View the scale-comparison page](images/spatial_patterns_by_scale.png)
 
 ## What This Project Demonstrates
 
