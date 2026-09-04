@@ -51,11 +51,29 @@ The source files were supplied for university coursework. This repository does n
 
 ## Key Findings
 
-- High-deprivation clusters were concentrated in northern and northeastern parts of the North Island in the 2006 data.
-- Christchurch showed stronger spatial clustering of deprivation than Wellington.
-- Local clusters were clearest at Meshblock level and became increasingly generalised as the data was aggregated.
-- At Territorial Authority level, the national clustering pattern was no longer statistically significant.
-- The analysis demonstrates that geographic scale and spatial-weight selection can materially affect analytical findings and their relevance to decision-making.
+### Geographic distribution
+
+High-deprivation areas in the 2006 data were concentrated in northern and northeastern parts of the North Island.
+
+[![Top deprivation areas in New Zealand](images/top_deprivation_areas_nz.png)](images/top_deprivation_areas_nz.png)
+
+### City-level comparison
+
+Christchurch showed stronger spatial clustering of deprivation than Wellington, indicating a more concentrated geographic pattern in the 2006 data.
+
+### Effect of geographic scale
+
+Local deprivation clusters were clearest at Meshblock level, became more generalised at Area Unit level, and were largely obscured when the data was aggregated to Territorial Authority level.
+
+[![Spatial autocorrelation across three geographic scales](images/spatial_autocorrelation_bynerscale.png)](images/spatial_autocorrelation_by_scale.png)
+
+The results demonstrate that geographic scale and spatial-weight selection can materially affect the patterns identified through spatial analysis and their relevance to planning and decision-making.
+
+### Additional analysis
+
+The analysis identified a positive association between area-level Māori population share and deprivation. This descriptive relationship is based on 2006 area-level data and should not be interpreted as evidence of causation or as a conclusion about individual residents.
+
+[![Deprivation and Māori population at Area Unit level](images/deprivation_and_maori_population.png)](images/deprivation_and_maori_population.png)
 
 ## Tools and Skills
 
