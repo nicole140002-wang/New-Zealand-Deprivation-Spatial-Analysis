@@ -65,7 +65,7 @@ Christchurch showed stronger spatial clustering of deprivation than Wellington, 
 
 Local deprivation clusters were clearest at Meshblock level, became more generalised at Area Unit level, and were largely obscured when the data was aggregated to Territorial Authority level.
 
-[![Spatial autocorrelation across three geographic scales](images/spatial_autocorrelation_bynerscale.png)](images/spatial_autocorrelation_by_scale.png)
+[![Spatial autocorrelation across three geographic scales](images/spatial_autocorrelation_by_scale.png)](images/spatial_autocorrelation_by_scale.png)
 
 The results demonstrate that geographic scale and spatial-weight selection can materially affect the patterns identified through spatial analysis and their relevance to planning and decision-making.
 
